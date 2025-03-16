@@ -1,6 +1,6 @@
 # MKV to MP4 Conversion Python Program
 
-This is a simple Python program that converts MKV video files to MP4 format. It provides a user-friendly interface for selecting an MKV file and performing the conversion. The program uses the `ffmpeg-python` library for the conversion process.
+This simple Python program converts MKV video files to MP4 format. It provides a user-friendly interface for selecting an MKV file and performing the conversion. The program uses the `ffmpeg-python` library for the conversion process.
 
 ## Features
 
